@@ -31,7 +31,7 @@ A lightweight custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyU
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/dna1989/comfy-Ui.git reboot
+git clone https://github.com/dna1989/comfy-Ui.git ComfyUI-Reboot
 ```
 
 Then restart ComfyUI.
@@ -39,7 +39,7 @@ Then restart ComfyUI.
 ### Method 2: Manual Download
 
 1. Download this repository as a ZIP
-2. Extract it into `ComfyUI/custom_nodes/reboot/`
+2. Extract it into `ComfyUI/custom_nodes/ComfyUI-Reboot/`
 3. Restart ComfyUI
 
 ---
