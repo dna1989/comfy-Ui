@@ -1,0 +1,4 @@
+# ComfyUI Restart Node - Requirements
+# No additional packages needed beyond ComfyUI's built-in dependencies
+# aiohttp is bundled with ComfyUI
+aiohttp
