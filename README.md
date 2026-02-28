@@ -9,6 +9,12 @@ A lightweight custom node for [ComfyUI](https://github.com/comfyanonymous/ComfyU
 
 ---
 
+<p align="center">
+  <img src="images/preview.png" width="600" alt="ComfyUI Restart Sidebar Panel">
+</p>
+
+---
+
 ## ✨ Features
 
 - 🔄 **Sidebar Restart Button** — Adds a dedicated "Restart" tab to the ComfyUI sidebar
